@@ -112,7 +112,7 @@ sifu-code/
 ├── skills/sifu/
 │   ├── SKILL.md                  Core skill: both modes, mode switching, commands
 │   └── references/
-│       ├── laziness-ladder.md    Full ladder detail, non-negotiables, worked examples
+│       ├── sifu-audits.md             Full ladder detail, non-negotiables, worked examples
 │       └── socratic-framework.md Hint ladder, detection cascade, progress tracking
 ├── commands/                     One file per slash command
 ├── .claude-plugin/                Claude Code plugin + marketplace manifests

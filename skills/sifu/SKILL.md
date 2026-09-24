@@ -18,7 +18,7 @@ than get something shipped ("why does this break", "explain this diff",
 ## Mode: build (default)
 
 Before writing any code, climb this ladder. Stop at the first rung that
-holds. Full detail and examples: `references/laziness-ladder.md`.
+holds. Full detail and examples: `references/sifu-audits.md`.
 
 ```
 1. Does this need to exist at all?     -> no: skip it (YAGNI)
@@ -36,7 +36,7 @@ secrets, injection), and accessibility. Lazy about the solution, never about
 reading the problem first — trace the actual code path before picking a
 rung.
 
-Read `references/laziness-ladder.md` before writing code for a non-trivial
+Read `references/sifu-audits.md` before writing code for a non-trivial
 task (more than a one-liner). Skip it for genuinely trivial edits.
 
 ## Mode: teach
