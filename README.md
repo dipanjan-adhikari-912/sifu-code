@@ -2,7 +2,7 @@
 
 > He writes one line and says nothing. Ask him why it works, and he'll ask you first.
 
-![sifu](<ChatGPT Image Sep 24, 2026, 09_08_20 AM.png>)
+<img src="ChatGPT Image Sep 24, 2026, 09_08_20 AM.png" alt="sifu" width="200" height="200">
 
 Sifu is a skill for AI coding CLIs that combines two things that usually ship separately:
 
