@@ -1,0 +1,14 @@
+{
+  "name": "sifu",
+  "version": "0.1.0",
+  "description": "A lazy senior dev who writes minimal code and teaches through questions, not lectures.",
+  "license": "MIT",
+  "skills": ["../skills/sifu"],
+  "commands": [
+    "../commands/sifu.md",
+    "../commands/sifu-review.md",
+    "../commands/sifu-teach.md",
+    "../commands/sifu-recap.md",
+    "../commands/sifu-help.md"
+  ]
+}

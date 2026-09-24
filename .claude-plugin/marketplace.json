@@ -1,0 +1,11 @@
+{
+  "name": "sifu",
+  "owner": "dipanjan-adhikari-912",
+  "plugins": [
+    {
+      "name": "sifu",
+      "source": "./",
+      "description": "A lazy senior dev who writes minimal code and teaches through questions, not lectures."
+    }
+  ]
+}
