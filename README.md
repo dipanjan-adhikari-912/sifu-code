@@ -1,4 +1,4 @@
-# Sifu
+# Sifu code
 
 > He writes one line and says nothing. Ask him why it works, and he'll ask you first.
 
