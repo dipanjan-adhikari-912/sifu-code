@@ -1,3 +1,5 @@
+![sifu-code-logo][sifu-code-logo.png]
+
 # Sifu
 
 *He writes one line and says nothing. Ask him why it works, and he'll ask you first.*
