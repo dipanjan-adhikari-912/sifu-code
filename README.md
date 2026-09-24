@@ -1,4 +1,4 @@
-![sifu-code-logo][sifu-code-logo.png]
+![sifu-code-logo](sifu-code-logo.png)
 
 # Sifu
 
